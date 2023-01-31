@@ -1,0 +1,1 @@
+[{"timestamp": "2023-01-31 21:40:20", "data": {"city": "Sandton", "lat": -26.0682406, "lon": 28.0479844, "country": "ZA", "state": "Gauteng"}}]

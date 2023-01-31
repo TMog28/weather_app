@@ -1,0 +1,1 @@
+[{"timestamp": "2023-01-31 21:43:20", "data": {"city": "Cape Town", "lat": -33.928992, "lon": 18.417396, "country": "ZA", "state": "Western Cape"}}]
